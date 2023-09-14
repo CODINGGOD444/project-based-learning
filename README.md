@@ -262,6 +262,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 6](https://www.youtube.com/watch?v=Jvp8j6zrFHE)
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
+##### Next:
+- [Create your own blog with NextJS and MDX](https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/)
 
 #### Angular:
 
