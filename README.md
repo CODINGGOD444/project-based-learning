@@ -263,7 +263,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   - [Part 7](https://www.youtube.com/watch?v=M_hFfrN8_PQ)
 - [React Phone E-Commerce Project(video)](https://www.youtube.com/watch?v=-edmQKcOW8s)
 ##### Next:
+- [NextJS Official Documentation](https://nextjs.org/docs)
 - [Create your own blog with NextJS and MDX](https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/)
+- [NextJS 13 Crash Course](https://www.youtube.com/watch?v=Y6KDk5iyrY)
 
 #### Angular:
 
